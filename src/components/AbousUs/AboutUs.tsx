@@ -1,3 +1,4 @@
+import aboutUsImage from '../../images/about-us.jpg';
 import Separator from '../Separator/Separator';
 import styles from './styles.module.scss';
 
@@ -6,7 +7,7 @@ function AboutUs ()    {
         <>
             <section className={styles.section} id='aboutUs'>
                 <div className={styles.aboutImage}>
-                    <img src="./src/images/about-us.jpg" alt="Vivace Hills Landscape" className={styles.image} />
+                    <img src={aboutUsImage} alt="Vivace Hills Landscape" className={styles.image} />
                 </div>
                 <div className={styles.aboutSection}>
                     <h1 className={styles.aboutTile}>Sobre nós</h1>

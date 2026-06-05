@@ -1,3 +1,4 @@
+import hotelLoungeImage from '../../images/hotel-lounge.jpg';
 import Separator from '../Separator/Separator';
 import styles from './styles.module.scss';
 
@@ -19,7 +20,7 @@ function ReservationsContainer ()    {
                         </form>
                 </div>
                 <div className={styles.imageDiv}>
-                    <img src="./src/images/hotel-lounge.jpg" alt="Hotel Lounge" className={styles.image} />
+                    <img src={hotelLoungeImage} alt="Hotel Lounge" className={styles.image} />
                 </div>
             </section>
         </>

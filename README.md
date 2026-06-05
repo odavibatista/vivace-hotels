@@ -1,6 +1,6 @@
 # 🏨 Vivace Hotels
 
-![Vivace Hotels](image.png)
+![Vivace Hotels](./image.png)
 
 Projeto desenvolvido com o objetivo de praticar **UI/UX Design**, prototipação no **Figma** e desenvolvimento front-end moderno utilizando **React**, **TypeScript** e **Vite**.
 
