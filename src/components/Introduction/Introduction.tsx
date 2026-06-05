@@ -34,7 +34,7 @@ function Introduction ()    {
                             <button className={styles.reservation}>Reservar</button>
                         </a>
                     </div>
-                    <img src="../src/images/hotel-bar.jpg" alt="Coffee Lounge" className={styles.image} />
+                    <img src="./src/images/hotel-bar.jpg" alt="Coffee Lounge" className={styles.image} />
                 </div>
             </section>
         </>

@@ -19,7 +19,7 @@ function ReservationsContainer ()    {
                         </form>
                 </div>
                 <div className={styles.imageDiv}>
-                    <img src="../src/images/hotel-lounge.jpg" alt="Hotel Lounge" className={styles.image} />
+                    <img src="./src/images/hotel-lounge.jpg" alt="Hotel Lounge" className={styles.image} />
                 </div>
             </section>
         </>

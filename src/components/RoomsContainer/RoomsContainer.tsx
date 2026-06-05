@@ -36,27 +36,27 @@ function RoomsContainer ()    {
                     }}
                     >
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/shores-seastar.jpg" alt="Shores Seastar Room" className={styles.roomImages} />
+                            <img src="./src/images/shores-seastar.jpg" alt="Shores Seastar Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Shores Seastar</p>
                         </SplideSlide>
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/hills-stargazer.jpg" alt="Hills Stargazer Room" className={styles.roomImages} />
+                            <img src="./src/images/hills-stargazer.jpg" alt="Hills Stargazer Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Hills Stargazer</p>
                         </SplideSlide>
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/hills-presidential.jpg" alt="Hills Presidential Room" className={styles.roomImages} />
+                            <img src="./src/images/hills-presidential.jpg" alt="Hills Presidential Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Hills Presidential</p>
                         </SplideSlide>
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/shores-dolphin.jpg" alt="Shores Dolphin Room" className={styles.roomImages} />
+                            <img src="./src/images/shores-dolphin.jpg" alt="Shores Dolphin Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Shores Dolphin</p>
                         </SplideSlide>
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/shores-bungalow.jpg" alt="Shores Dolphin Room" className={styles.roomImages} />
+                            <img src="./src/images/shores-bungalow.jpg" alt="Shores Dolphin Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Shores Bungalow</p>
                         </SplideSlide>
                         <SplideSlide style={{textAlign: "center"}}>
-                            <img src="../src/images/hills-hideout.jpg" alt="Hills Hideout Room" className={styles.roomImages} />
+                            <img src="./src/images/hills-hideout.jpg" alt="Hills Hideout Room" className={styles.roomImages} />
                             <p className={styles.roomName}>Hills Hideout</p>
                         </SplideSlide>
                     </Splide>
@@ -65,19 +65,19 @@ function RoomsContainer ()    {
             <div className={styles.features}>
                 <div className={styles.descriptions}>
                     <div className={styles.iconContainers}>
-                        <img src="../src/images/vectors/coffee.svg" alt="Coffee Icon" className={styles.icons} />
+                        <img src="./src/images/vectors/coffee.svg" alt="Coffee Icon" className={styles.icons} />
                     </div>
                     <p className={styles.information}>Café da manhã incluso</p>
                 </div>
                 <div className={styles.descriptions}>
                     <div className={styles.iconContainers}>
-                        <img src="../src/images/vectors/credit-card.svg" alt="Credit Card" className={styles.icons} />
+                        <img src="./src/images/vectors/credit-card.svg" alt="Credit Card" className={styles.icons} />
                     </div>
                     <p className={styles.information}>Várias formas de pagamento</p>
                 </div>
                 <div className={styles.descriptions}>
                     <div className={styles.iconContainers}>
-                        <img src="../src/images/vectors/heart.svg" alt="Satisfaction" className={styles.icons} />
+                        <img src="./src/images/vectors/heart.svg" alt="Satisfaction" className={styles.icons} />
                     </div>
                     <p className={styles.information}>Hóspedes 100% satisfeitos!</p>
                 </div>
