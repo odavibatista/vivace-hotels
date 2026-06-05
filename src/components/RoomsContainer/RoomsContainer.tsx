@@ -1,6 +1,6 @@
 import Separator from '../Separator/Separator';
 import styles from './styles.module.scss';
-import { Splide, SplideTrack, SplideSlide } from '@splidejs/react-splide';
+import { Splide, SplideSlide } from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
 
 function RoomsContainer ()    {

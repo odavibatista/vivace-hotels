@@ -45,7 +45,7 @@ function Footer ()    {
                     </div>
                 </section>
                 <div className={styles.seal}>
-                    <p>© Todos os direitos reservados. Pousadas Vivace, 2023</p>
+                    <p>© Todos os direitos reservados. Pousadas Vivace, {new Date().getFullYear()}</p>
                 </div>
             </footer>
         </>
